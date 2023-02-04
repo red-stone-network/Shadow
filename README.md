@@ -1,22 +1,13 @@
-# Shadow
-Shadow is a simple yet stunning service built to access any website
+# Edited shadow
+Shadow is a simple yet stunning service built to access any website. I edited it so itd be harder to catch with automated systems
 
-Join our [discord](https://discord.gg/yk33HZSZkU) for more links
+Join Fog Network's [discord](https://discord.gg/yk33HZSZkU), or Redstone Network's [COMING SOON]
 
-<a href="https://heroku.com/deploy?template=https://github.com/FogNetwork/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
-<a href="https://repl.it/github/FogNetwork/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/FogNetwork/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/red-stone-network/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
+<a href="https://repl.it/github/red-stone-network/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
+<a href="https://glitch.com/edit/#!/import/github/red-stone-network/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
-### Features
-- Incredible single page design
-- Simple to use
-- Fully working omnibox
-- Easy tab cloaking
-- Quick links for easy access
-
-### Setup
-
-### Locally
+### SETUP
 
 ```sh
 git clone https://github.com/FogNetwork/Shadow
@@ -32,7 +23,7 @@ npm start
 
 Click one of the buttons above and follow the steps
 
-### Configuration
+### CONFIG
 
 ```json
 {
@@ -51,25 +42,3 @@ Click one of the buttons above and follow the steps
 ### Support
 
 Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
-
-### Proxy 
-
-[Corrosion](https://github.com/titaniumnetwork-dev/Corrosion)
-
-[Modified Corrosion](https://github.com/BinBashBanana/Corrosion-Heroku)
-
-### Credits
-
-[Nebelung](https://github.com/Nebelung-Dev) - Owner and Main Developer
-
-[EnderKingJ](https://github.com/EnderKingJ) - Proxy Developer
-
-[Quite A Fancy Emerald](https://github.com/QuiteAFancyEmerald) - Holy Unblocker King
-
-[Caracal.js](https://github.com/caracal-js) - Proxy Developer
-
-[MikeLime](https://github.com/MikeLime-dev) - Developer
-
-[Binary Person](https://github.com/binary-person) - Creator of Womginx
-
-[Shirt](https://github.com/shirt-dev) - Proxy Developer
